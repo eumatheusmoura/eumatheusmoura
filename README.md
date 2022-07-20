@@ -32,7 +32,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
 <h3>⚙️ &nbsp;Outras ferramentas:</h3>
-![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT)
+
+![Git](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT)
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
