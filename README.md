@@ -32,6 +32,7 @@
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 ![API Rest](https://img.shields.io/badge/-APIRest-333333?style=flat&logo=cachet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
