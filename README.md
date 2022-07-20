@@ -21,7 +21,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=Tailwindcss&logoColor=06B6D4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
