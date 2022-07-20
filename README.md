@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=Tailwindcss&logoColor=06B6D4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
@@ -30,7 +30,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-![API Rest](https://img.shields.io/badge/-cachet-333333?style=flat&logo=cachet)
+![API Rest](https://img.shields.io/badge/-API Rest-333333?style=flat&logo=cachet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
