@@ -30,12 +30,12 @@
 ![API Rest](https://img.shields.io/badge/-APIRest-333333?style=flat&logo=cachet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 <h3>⚙️ &nbsp;Outras ferramentas:</h3>
 
 ![Git](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
