@@ -31,6 +31,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
+<h3>⚙️ &nbsp;Outras ferramentas:</h3>
+![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Matheus Moura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatheusmoura&show_icons=true&theme=dracula)
