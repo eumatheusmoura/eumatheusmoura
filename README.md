@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Matheus!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/eumatheusmoura"><img src="https://img.shields.io/badge/-Matheus%20Moura%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mouramatheus.dev@gmail.com"><img src="https://img.shields.io/badge/-mouramatheus.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -19,10 +19,20 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Matheus Moura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatheusmoura&show_icons=true&theme=dracula)
+
+
+
+
 
 
 
