@@ -34,6 +34,8 @@
 <h3>⚙️ &nbsp;Outras ferramentas:</h3>
 
 ![Git](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
