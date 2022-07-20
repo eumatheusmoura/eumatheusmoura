@@ -7,6 +7,9 @@
 
 <h2> 👨🏻‍💻 &nbsp; Sobre mim </h2>
 
+- 👨🏻‍💻 &nbsp; Autodidata desde cedo, tive meu primeiro contato com linhas de código (HTML e CSS) aos 15 anos de idade, sempre fui curioso para entender como as coisas funcionavam. Me interessei pela criação de websites e ecommerce e, com o tempo e muito estudo, sempre com a ajuda do Google, YouTube e grupos do Facebook, desenvolvi minhas habilidades na criação de web softwares com HTML, CSS, JS, e PHP. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+
+
 
 
 
