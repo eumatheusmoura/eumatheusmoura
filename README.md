@@ -9,7 +9,6 @@
 
 - 👨🏻‍💻 &nbsp; Autodidata desde cedo, tive meu primeiro contato com linhas de código (HTML e CSS) aos 15 anos de idade, sempre fui curioso para entender como as coisas funcionavam. Me interessei pela criação de websites e ecommerce e, com o tempo e muito estudo, sempre com a ajuda do Google, YouTube e grupos do Facebook, desenvolvi minhas habilidades na criação de web softwares com HTML, CSS, JS, e PHP. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 - 🚀 &nbsp; Escolhi o desenvolvimento web e mobile como foco atual da minha carreira pois eles me dão liberdade para fazer o que mais me fascina na programação — que é criar produtos incríveis, que podem impactar a vida das pessoas — e venho me aprimorando diariamente em ambas as áreas, seja por meio da criação de projetos pessoais (o que você pode conferir aqui no GitHub) ou por meio de cursos online.
-- 
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
