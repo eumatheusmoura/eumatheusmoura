@@ -30,6 +30,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+![API Rest](https://img.shields.io/badge/-cachet-333333?style=flat&logo=cachet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
